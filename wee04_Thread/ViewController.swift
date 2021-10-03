@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     override var preferredInterfaceOrientationForPresentation: UIInterfaceOrientation{
         return .landscapeLeft
     }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
