@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    //가로모드 고정 부분
+    //가로모드 고정
     override var shouldAutorotate: Bool {
         return true
     }
